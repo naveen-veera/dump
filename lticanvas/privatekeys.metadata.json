@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"kid":{"$numberInt":"1"}},"name":"kid_1","background":true}],"uuid":"c98cda7e413b4578a66e6d61b78caa12","collectionName":"privatekeys"}
